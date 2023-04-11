@@ -6,7 +6,7 @@ BACKEND
    - npm i
    
   Za zagon aplikacije se uporablja ukaz 
-  - npm run start'
+  - npm run start
   
   Aplikacija se servira na portu 3000 in ima 2 endpointa: 
    - Endpoint /api/mediana/calculate (POST) (izračuna mediano, jo shrani v mysql bazo in pošlje frontendu)
