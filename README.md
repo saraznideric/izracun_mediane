@@ -1,10 +1,8 @@
 # izracun_mediane
 
 BACKEND
-
   Za backend je uporabljen Express js. Za zagon aplikacije je potrebno nasneti pakete node.js
    - npm i
-   
   Za zagon aplikacije se uporablja ukaz 
   - npm run start
   
@@ -13,13 +11,10 @@ BACKEND
    - Endpoint /api/mediana/get (pridobi vse podatke iz podatkovne baze)
 
 FRONTEND
-
   Frontend je statična datoteka mediana.html
 
 PODATKOVNA BAZA
-
   Baza je MySql
-  
   Shema: default
   Ime tabele: bankart 
   Tabela vsebuje tri stolpce:
