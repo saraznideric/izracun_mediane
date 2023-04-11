@@ -117,9 +117,7 @@ document.getElementById("izracunaj-median").addEventListener("click", function (
 
 // prikaz tabele medianov
 function prikaziTabeloMedianov(data) {
-  /*
-    data => stevilka ki jo vstavljava v tabelo
-  */
+  
   let tabelaElement = document.getElementById("tabela-mediana");
   let vrstica = document.createElement("tr");
   let celica1 = document.createElement("td");
